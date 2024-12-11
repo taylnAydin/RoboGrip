@@ -2,6 +2,8 @@
 
 🎮 **A robotic arm controlled via joystick and powered by Arduino Uno R3.**
 
+![Robot Image](robot.jpeg)
+
 ## 🚀 Features:
 - **Joystick Control**: Use the analog X and Y joystick to control the movement of the robotic arm's servo motors.
 - **Servo Motors**: Four high-torque servos for precise control of the robotic arm.
